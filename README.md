@@ -1,2 +1,2 @@
 # Calculator
-Followed a tutorial
+vanilla js
